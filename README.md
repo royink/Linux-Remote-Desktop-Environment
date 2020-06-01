@@ -34,8 +34,7 @@ Features:
 
 Let's get started (via root user)
 
-    wget --no-check-certificate -qO ~/Linux-Remote-Desktop-Environment.sh 'https://raw.githubusercontent.com/MeowLove/Linux-Remote-Desktop-Environment/master/Download/Common/Main/Ubuntu.sh' && chmod a+x ~/Ubuntu.sh
-    (Ubuntu 18.04+)			bash ~/Ubuntu.sh -Ubuntu
+    wget https://raw.githubusercontent.com/MeowLove/Linux-Remote-Desktop-Environment/master/Download/Common/Main/Ubuntu.sh && bash ./Ubuntu.sh
 
 Now that you have done it, you can connect via RDP (IP: 3389)
 
