@@ -34,10 +34,8 @@ Features:
 
 Let's get started (via root user)
 
-    wget --no-check-certificate -qO ~/Linux-Remote-Desktop-Environment.sh 'https://tech.cxthhhhh.com/tech-tools/Linux-Remote-Desktop-Environment/Linux-Remote-Desktop-Environment.sh' && chmod a+x ~/Linux-Remote-Desktop-Environment.sh
-    (CentOS 7+)			bash ~/Linux-Remote-Desktop-Environment.sh -CentOS
-    (Debian 9+)			bash ~/Linux-Remote-Desktop-Environment.sh -Debian
-    (Ubuntu 18.04+)			bash ~/Linux-Remote-Desktop-Environment.sh -Ubuntu
+    wget --no-check-certificate -qO ~/Linux-Remote-Desktop-Environment.sh 'https://raw.githubusercontent.com/MeowLove/Linux-Remote-Desktop-Environment/master/Download/Common/Main/Ubuntu.sh' && chmod a+x ~/Ubuntu.sh
+    (Ubuntu 18.04+)			bash ~/Ubuntu.sh -Ubuntu
 
 Now that you have done it, you can connect via RDP (IP: 3389)
 
